@@ -34,6 +34,4 @@ Hi there, I'm **Md Ariful Haque**, **Software Engineer**, **Web Developer** and 
 ### Let's connect!
 <p>
     <a href="https://www.linkedin.com/in/arifulhaque/" target="blank"><img align="left" alt="Md Ariful Haque's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-    <a href="https://web.facebook.com/mah-shamim" target="blank"><img align="left" alt="Md Ariful Haque's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
-    <a href="https://twitter.com/mah-shamim" target="blank"><img align="left" alt="Md Ariful Haque's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 </p>
