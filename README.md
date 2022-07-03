@@ -54,8 +54,6 @@ Hi there, I'm **Md Ariful Haque**, **Software Engineer**, **Web Developer** and 
 ### Cloud Platform
 <img src="https://img.shields.io/badge/%20-AWS-black?logo=amazonaws&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-GCP-black?logo=googlecloud&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Azure-black?logo=microsoftazure&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Digital%20Ocean-black?logo=digitalocean&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Linode-black?logo=linode&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20Vultr-black?logo=vultr&style=for-the-badge"/>
 
-### Contribution
-![GitHub Contributors Image](https://contrib.rocks/image?repo=devsonket/devsonket.github.io)
 ### Let's connect!
 <p>
     <a href="https://www.linkedin.com/in/arifulhaque/" target="blank"><img align="left" alt="Md Ariful Haque's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
