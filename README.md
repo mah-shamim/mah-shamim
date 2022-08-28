@@ -21,7 +21,6 @@ Hi there, I'm **Md Ariful Haque**, **Software Engineer**, **Web Developer** and 
 </p>
 
 ### Professional Skills:
-- Language
 ![HTML5](https://img.shields.io/badge/-HTML5-DD4B25?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-146EB0?style=plastic&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-8613F6?style=plastic&logo=bootstrap&logoColor=white)
