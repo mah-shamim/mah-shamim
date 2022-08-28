@@ -1,6 +1,5 @@
 ### Hi there 👋 , I'm MD ARIFUL HAQUE!
 ![Profile Views](https://gpvc.arturio.dev/mah-shamim)
-![](https://komarev.com/ghpvc/?username=mah-shamim&label=PROFILE+VIEWS)
 ![image](https://img.shields.io/github/followers/mah-shamim?label=follow&style=social)
     
 Hi there, I'm **Md Ariful Haque**, **Software Engineer**, **Web Developer** and a **Open-Source maintainer** 🚀 from Bangladesh 🇧🇩.
