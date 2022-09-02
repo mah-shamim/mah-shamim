@@ -25,7 +25,7 @@ Hi there, I'm **Md Ariful Haque**, **Software Engineer**, **Web Developer** and 
 ![CSS3](https://img.shields.io/badge/-CSS3-146EB0?style=plastic&logo=css3&logoColor=146EB0&labelColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-8613F6?style=plastic&logo=bootstrap&logoColor=8613F6&labelColor=white)
 ![MarkDown](https://img.shields.io/badge/-Markdown-black?style=plastic&logo=markdown&logoColor=black&labelColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E&labelColor=%23323330)
 ![JQuery](https://img.shields.io/badge/JQuery-%23323330.svg?style=plastic&logo=jquery&logoColor=%230769AD&labelColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-%23323330.svg?style=plastic&logo=node.js&logoColor=%233E863D,%2373CE4C,%23333333&labelColor=white)
 ![Nest.js](https://img.shields.io/badge/nest.js-%23323330.svg?style=plastic&logo=nestjs&logoColor=%23E0234E&labelColor=white)
