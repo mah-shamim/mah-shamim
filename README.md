@@ -21,19 +21,22 @@ Hi there, I'm **Md Ariful Haque**, **Software Engineer**, **Web Developer** and 
 </p>
 
 ### Professional Skills:
-![HTML5](https://img.shields.io/badge/-HTML5-DD4B25?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-146EB0?style=plastic&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-8613F6?style=plastic&logo=bootstrap&logoColor=white)
-![MarkDown](https://img.shields.io/badge/-Markdown-black?style=plastic&logo=markdown&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-DD4B25?style=plastic&logo=html5&logoColor=%23DD4B25&labelColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-146EB0?style=plastic&logo=css3&logoColor=146EB0&labelColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-8613F6?style=plastic&logo=bootstrap&logoColor=8613F6&labelColor=white)
+![MarkDown](https://img.shields.io/badge/-Markdown-black?style=plastic&logo=markdown&logoColor=black&labelColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/-PHP-7377AD?style=plastic&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-E8111E?style=plastic&logo=laravel&logoColor=white)
-![Codeigniter](https://img.shields.io/badge/-Codeigniter-dd4814?style=plastic&logo=codeigniter&logoColor=white)
-![CakePHP](https://img.shields.io/badge/-CakePHP-c92735?style=plastic&logo=CakePHP&logoColor=white)
-![Yii](https://img.shields.io/badge/-Yii-d8582b?style=plastic&logo=Yii&logoColor=white)
-![MYSQL](https://img.shields.io/badge/-MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
-![PostgreSql](https://img.shields.io/badge/-PostgreSql-DE8A00?style=plastic&logo=PostgreSQL&logoColor=white)
-![Oracle](https://img.shields.io/badge/-Oracle-DE8A00?style=plastic&logo=Oracle&logoColor=white)
+![JQuery](https://img.shields.io/badge/JQuery-%23323330.svg?style=plastic&logo=jquery&logoColor=%230769AD&labelColor=white)
+![Node.js](https://img.shields.io/badge/node.js-%23323330.svg?style=plastic&logo=node.js&logoColor=%233E863D,%2373CE4C,%23333333&labelColor=white)
+![Nest.js](https://img.shields.io/badge/nest.js-%23323330.svg?style=plastic&logo=nestjs&logoColor=%23E0234E&labelColor=white)
+![PHP](https://img.shields.io/badge/-PHP-7377AD?style=plastic&logo=php&logoColor=7377AD&labelColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-E8111E?style=plastic&logo=laravel&logoColor=E8111E&labelColor=white)
+![Codeigniter](https://img.shields.io/badge/-Codeigniter-%23dd4814?style=plastic&logo=codeigniter&logoColor=%23dd4814&labelColor=white)
+![CakePHP](https://img.shields.io/badge/-CakePHP-%23c92735?style=plastic&logo=CakePHP&logoColor=%23c92735&labelColor=white)
+![Packagist](https://img.shields.io/badge/-Packagist-%23F28D1A?style=plastic&logo=Packagist&logoColor=%23F28D1A&labelColor=white)
+![MYSQL](https://img.shields.io/badge/-MySQL-%234479A1?style=plastic&logo=mysql&logoColor=%234479A1&labelColor=white)
+![PostgreSql](https://img.shields.io/badge/-PostgreSql-%23DE8A00?style=plastic&logo=PostgreSQL&logoColor=%23DE8A00&labelColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-%23F80000?style=plastic&logo=Oracle&logoColor=%23f80000&labelColor=white)
 ### Actively Working
 <img src="https://img.shields.io/badge/%20-PHP-black?logo=php&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Javascript-black?logo=javascript&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-jQuery-black?logo=jQuery&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Shell%20Script-black?logo=shell&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Python-black?logo=python&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Node.js-black?logo=Node.js&style=for-the-badge"/>
 
@@ -41,7 +44,7 @@ Hi there, I'm **Md Ariful Haque**, **Software Engineer**, **Web Developer** and 
 <img src="https://img.shields.io/badge/%20-Vue.js-black?logo=vue-dot-js&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Bootstrap-black?logo=bootsrap&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Sass-black?logo=sass&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Less-black?logo=less&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Compass%20CSS-black?logo=compass&style=for-the-badge"/>
 
 ### Backend Frameworks
-<img src="https://img.shields.io/badge/%20-Spring%20Framework-black?logo=spring&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Laravel-black?logo=laravel&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-CodeIgniter-black?logo=codeigniter&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-CakePHP-black?logo=cakephp&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%20-Spring%20Framework-black?logo=spring&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Laravel-black?logo=laravel&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-CodeIgniter-black?logo=codeigniter&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-CakePHP-black?logo=cakephp&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-nestjs-black?logo=nestjs&style=for-the-badge"/>
 
 ### Database
 <img src="https://img.shields.io/badge/%20-MySQL-black?logo=mysql&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-PostgreSQL-black?logo=postgresql&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Oracle-black?logo=oracle&style=for-the-badge"/>
