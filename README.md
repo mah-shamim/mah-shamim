@@ -47,7 +47,7 @@ Hi there, I'm **Md Ariful Haque**, **Software Engineer**, **Web Developer** and 
 <img src="https://img.shields.io/badge/%20-Spring%20Framework-black?logo=spring&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Laravel-black?logo=laravel&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-CodeIgniter-black?logo=codeigniter&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-CakePHP-black?logo=cakephp&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-nestjs-black?logo=nestjs&style=for-the-badge"/>
 
 ### Database
-<img src="https://img.shields.io/badge/%20-MySQL-black?logo=mysql&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-PostgreSQL-black?logo=postgresql&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Oracle-black?logo=oracle&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%20-MySQL-black?logo=mysql&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-PostgreSQL-black?logo=postgresql&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Oracle-black?logo=oracle&style=for-the-badge&logoColor=%23f80000"/>
 
 ### Index
 <img src="https://img.shields.io/badge/%20-Elastic%20Search-black?logo=elasticsearch&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Apache%20Solr-black?logo=apachesolr&style=for-the-badge"/>
