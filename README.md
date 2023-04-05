@@ -1,7 +1,7 @@
 ### Hi there 👋 , I'm MD ARIFUL HAQUE!
 ![Profile Views](https://gpvc.arturio.dev/mah-shamim)
 ![image](https://img.shields.io/github/followers/mah-shamim?label=follow&style=social)
-[![Actions Status](https://github.com/{owner}/{repo}/workflows/{workflow_name}/badge.svg)](https://github.com/{owner}/{repo}/actions)
+[![Actions Status](https://github.com/swdresearch/api/workflows/php/badge.svg)](https://github.com/swdresearch/api/actions)
 
 Hi there, I'm **Md Ariful Haque**, **Software Engineer**, **Web Developer** and a **Open-Source maintainer** 🚀 from Bangladesh 🇧🇩.
 
