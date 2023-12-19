@@ -2,7 +2,10 @@
 ![Profile Views](https://gpvc.arturio.dev/mah-shamim)
 ![image](https://img.shields.io/github/followers/mah-shamim?label=follow&style=social)
 
-Hi there, I'm **Md Ariful Haque**, **Software Engineer**, **Web Developer** and a **Open-Source maintainer** 🚀 from Bangladesh 🇧🇩.
+|<a href="https://app.daily.dev/mdarifulhaque"><img src="https://api.daily.dev/devcards/49232f26129e4980b5c9d234e8840f86.png" width="200" alt="MD ARIFUL HAQUE's Dev Card"/></a> |Hi there, I'm **Md Ariful Haque**, **Software Engineer**, **Web Developer** and a **Open-Source maintainer** 🚀 from Bangladesh 🇧🇩. | 
+|-----|:-----:|
+
+
 
 [![@mahshamim's Holopin board](https://holopin.io/api/user/board?user=mahshamim)](https://holopin.io/@mahshamim)
 
@@ -18,8 +21,8 @@ Hi there, I'm **Md Ariful Haque**, **Software Engineer**, **Web Developer** and 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mah-shamim&layout=compact" height=180 />
 </p>
 <p align="left"> 
-    <img src="https://github-profile-trophy.vercel.app/?username=mah-shamim&row=1&column=7" alt="mah-shamim" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mah-shamim&layout=compact" height="220" alt="Hafijul Islam Contributions" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mah-shamim&row=1&column=7" alt="MD ARIFUL HAQUE" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mah-shamim&layout=compact" height="220" alt="MD ARIFUL HAQUE Contributions" />
 </p>
 
 ### Professional Skills:
