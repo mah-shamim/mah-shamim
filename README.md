@@ -35,9 +35,13 @@ Hi there, I'm **Md Ariful Haque**, **Software Engineer**, **Web Developer** and 
   - 💕 I'm currently maintain **[mah-shamim/city-bank-api](https://packagist.org/packages/mah-shamim/city-bank-api)** 
   - 📫 You can reach me at <a href="mailto:mah-shamim@gmail.com">mah-shamim@gmail.com</a>
 
+<hr>
+
 ![Metrics](https://raw.githubusercontent.com/mah-shamim/mah-shamim/github-metrics/github-metrics.svg)
 ![Notable contributions](https://raw.githubusercontent.com/mah-shamim/mah-shamim/github-metrics/notable.svg)
 ![Achievements](https://raw.githubusercontent.com/mah-shamim/mah-shamim/github-metrics/achievements.svg)
+
+<hr>
 
  <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=mah-shamim&show_icons=true&count_private=true" height=170 />
@@ -48,6 +52,8 @@ Hi there, I'm **Md Ariful Haque**, **Software Engineer**, **Web Developer** and 
     <img src="https://github-profile-trophy.vercel.app/?username=mah-shamim&row=1&column=7" alt="MD ARIFUL HAQUE" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mah-shamim&layout=compact" height="220" alt="MD ARIFUL HAQUE Contributions" />
 </p>
+
+<hr>
 
 ### Professional Skills:
 ![HTML5](https://img.shields.io/badge/-HTML5-DD4B25?style=plastic&logo=html5&logoColor=%23DD4B25&labelColor=white)
