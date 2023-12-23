@@ -44,8 +44,8 @@ Hi there, I'm **Md Ariful Haque**, **Software Engineer**, **Web Developer** and 
 <hr>
 
  <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=mah-shamim&show_icons=true&count_private=true" height=170 />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mah-shamim&layout=compact" height=170 />
+    <img src="https://github-readme-stats.vercel.app/api?username=mah-shamim&show_icons=true&count_private=true" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mah-shamim&layout=compact" height=180 />
 </p>
 
 <p align="left"> 
