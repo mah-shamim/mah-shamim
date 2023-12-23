@@ -25,7 +25,7 @@ jobs:
           user: mah-shamim
           template: classic
           base: header, activity, community
-          config_timezone: Europe/Oslo
+          config_timezone: Asia/Dhaka
 
   notable:
     runs-on: ubuntu-latest
@@ -44,7 +44,7 @@ jobs:
           template: classic
           base: ""
           config_display: large
-          config_timezone: Europe/Oslo
+          config_timezone: Asia/Dhaka
           config_output: svg
           config_padding: 0, 30
           filename: notable.svg
@@ -70,7 +70,7 @@ jobs:
           template: classic
           base: ""
           config_display: large
-          config_timezone: Europe/Oslo
+          config_timezone: Asia/Dhaka
           config_output: svg
           config_padding: 0, 30
           filename: notable2.svg
