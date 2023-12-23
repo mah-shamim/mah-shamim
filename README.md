@@ -1,13 +1,31 @@
-### Hi there 👋 , I'm MD ARIFUL HAQUE!
-![Profile Views](https://gpvc.arturio.dev/mah-shamim)
-![image](https://img.shields.io/github/followers/mah-shamim?label=follow&style=social)
-
-|<a href="https://app.daily.dev/mdarifulhaque"><img src="https://api.daily.dev/devcards/49232f26129e4980b5c9d234e8840f86.png" width="200" alt="MD ARIFUL HAQUE's Dev Card"/></a> |Hi there, I'm **Md Ariful Haque**, **Software Engineer**, **Web Developer** and a **Open-Source maintainer** 🚀 from Bangladesh 🇧🇩. | 
-|-----|:-----:|
-
-
-
+### Hi there 👋 , I'm MD ARIFUL HAQUE! ![image](https://img.shields.io/github/followers/mah-shamim?label=follow&style=social)
 [![@mahshamim's Holopin board](https://holopin.io/api/user/board?user=mahshamim)](https://holopin.io/@mahshamim)
+<div align="left">
+  
+  <a href="https://www.linkedin.com/in/arifulhaque/">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
+  <a rel="me" href="https://cloud-native.social/@mdarifulhaque">
+    <img
+      src="https://img.shields.io/mastodon/follow/109437637721057155?color=blueviolet&domain=https%3A%2F%2Fcloud-native.social&label=Mastodon&logo=mastodon&logoColor=white&style=flat-square"
+      alt="Cloud Native Mastodon"
+    />
+  </a>
+
+Hi there, I'm **Md Ariful Haque**, **Software Engineer**, **Web Developer** and a **Open-Source maintainer** 🚀 from Bangladesh 🇧🇩.
+
+  <a href="https://app.daily.dev/mdarifulhaque" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://api.daily.dev/devcards/49232f26129e4980b5c9d234e8840f86.png"
+    />
+  </a>
+
+</div>
 
 ### Talking about Personal Stuffs:
   - 🔭 I’m currently working as Professional Software Engineer
@@ -15,11 +33,16 @@
   - 🌱 I’m currently learning **Software Architecture** and **Software Service Oriented Design**
   - 💕 I'm currently maintain **[mah-shamim/city-bank-api](https://packagist.org/packages/mah-shamim/city-bank-api)** 
   - 📫 You can reach me at <a href="mailto:mah-shamim@gmail.com">mah-shamim@gmail.com</a>
- 
+
+![Metrics](https://raw.githubusercontent.com/mah-shamim/mah-shamim/github-metrics/github-metrics.svg)
+![Notable contributions](https://raw.githubusercontent.com/mah-shamim/mah-shamim/github-metrics/notable.svg)
+![Achievements](https://raw.githubusercontent.com/mah-shamim/mah-shamim/github-metrics/achievements.svg)
+
  <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=mah-shamim&show_icons=true&count_private=true" height=180 />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mah-shamim&layout=compact" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api?username=mah-shamim&show_icons=true&count_private=true" height=170 />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mah-shamim&layout=compact" height=170 />
 </p>
+
 <p align="left"> 
     <img src="https://github-profile-trophy.vercel.app/?username=mah-shamim&row=1&column=7" alt="MD ARIFUL HAQUE" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mah-shamim&layout=compact" height="220" alt="MD ARIFUL HAQUE Contributions" />
