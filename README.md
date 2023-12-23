@@ -26,6 +26,7 @@ Hi there, I'm **Md Ariful Haque**, **Software Engineer**, **Web Developer** and 
   </a>
 
 </div>
+<hr>
 
 ### Talking about Personal Stuffs:
   - 🔭 I’m currently working as Professional Software Engineer
