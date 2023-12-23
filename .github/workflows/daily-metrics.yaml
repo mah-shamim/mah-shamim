@@ -51,7 +51,7 @@ jobs:
 
           # Notable contributions
           plugin_notable: yes
-          plugin_notable_filter: stars:>25
+          plugin_notable_filter: stars:>0
           
   notable2:
     runs-on: ubuntu-latest
@@ -77,7 +77,7 @@ jobs:
 
           # Notable contributions
           plugin_notable: yes
-          plugin_notable_filter: stars:>25
+          plugin_notable_filter: stars:>0
           plugin_notable_indepth: yes
           plugin_notable_repositories: yes
           plugin_notable_from: all
@@ -102,7 +102,7 @@ jobs:
           config_timezone: Asia/Dhaka
           config_output: svg
           filename: achievements.svg
-          repositories_batch: 5
+          repositories_batch: 0
 
           # Achievement plugin
           plugin_achievements: yes
