@@ -2,18 +2,43 @@
 [![@mahshamim's Holopin board](https://holopin.io/api/user/board?user=mahshamim)](https://holopin.io/@mahshamim)
 <div align="left">
   
-  <a href="https://www.linkedin.com/in/arifulhaque/">
+  <a href="https://www.linkedin.com/in/arifulhaque/" target="_blank">
     <img
       src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
       alt="LinkedIn"
     />
   </a>
-  <a rel="me" href="https://cloud-native.social/@mdarifulhaque">
+  
+  <a rel="me" href="https://cloud-native.social/@mdarifulhaque" target="_blank">
     <img
       src="https://img.shields.io/mastodon/follow/109437637721057155?color=blueviolet&domain=https%3A%2F%2Fcloud-native.social&label=Mastodon&logo=mastodon&logoColor=white&style=flat-square"
       alt="Cloud Native Mastodon"
     />
   </a>
+
+  <a rel="me" href="https://hub.docker.com/u/mahshamim" target="_blank">
+    <img
+      src="https://img.shields.io/docker/pulls/mahshamim/laraedit?logo=docker&style=flat-square&logoColor=white"
+      alt="Docker Hub"
+    />
+  </a>
+
+  <a rel="me" href="https://discord.gg/mWQ3s5Q8" target="_blank">
+    <img
+      src="https://img.shields.io/discord/1188979385567551509?color=greenviolet&domain=https%3A%2F%2Fdiscord.com&label=Discord&logo=discord&logoColor=white&style=flat-square"
+      alt="Cloud Native Mastodon"
+    />
+  </a>
+
+<a rel="me" href="https://packagist.org/packages/mah-shamim/city-bank-api" target="_blank">
+    <img
+      src="https://img.shields.io/packagist/dependency-v/mah-shamim/city-bank-api/php?color=redviolet&domain=https%3A%2F%2Fpackagist.org&label=Packagist&logo=packagist&logoColor=white&style=flat-square"
+      alt="Cloud Native Mastodon"
+    />
+  </a>
+  
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/mah-shamim/devsonket.github.io">
+
 
 Hi there, I'm **Md Ariful Haque**, **Software Engineer**, **Web Developer** and a **Open-Source maintainer** 🚀 from Bangladesh 🇧🇩.
 
