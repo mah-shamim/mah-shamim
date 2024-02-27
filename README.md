@@ -46,7 +46,8 @@ Hi there, I'm **Md Ariful Haque**, **Software Engineer**, **Web Developer** and 
     <img
       width="256"
       align="right"
-      src="https://api.daily.dev/devcards/49232f26129e4980b5c9d234e8840f86.png"
+      alt="MD ARIFUL HAQUE's Dev Card"
+      src="https://api.daily.dev/devcards/v2/49232f26129e4980b5c9d234e8840f86.png"
     />
   </a>
 
