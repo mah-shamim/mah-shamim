@@ -17,13 +17,14 @@ jobs:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          #committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}
           committer_branch: github-metrics
           committer_message: "build: update `${filename}`"
 
           # Options
           user: mah-shamim
-          template: classic
+          template: classic, markdown
           base: header, activity, community
           config_timezone: Asia/Dhaka
 
@@ -35,7 +36,8 @@ jobs:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          #committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}
           committer_branch: github-metrics
           committer_message: "build: update `${filename}`"
 
@@ -61,7 +63,8 @@ jobs:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          #committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}
           committer_branch: github-metrics
           committer_message: "build: update `${filename}`"
 
@@ -90,7 +93,8 @@ jobs:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          #committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}
           committer_branch: github-metrics
           committer_message: "build: update `${filename}`"
 
@@ -106,6 +110,73 @@ jobs:
 
           # Achievement plugin
           plugin_achievements: yes
-          plugin_achievements_threshold: C
+          plugin_achievements_threshold: X
           plugin_achievements_secrets: yes
           plugin_achievements_display: compact 
+
+  starlists:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@master
+        with:
+          # You'll need to setup a personal token in your secrets.
+          token: ${{ secrets.METRICS_TOKEN }}
+          # GITHUB_TOKEN is a special auto-generated token used for commits
+          #committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}
+          committer_branch: github-metrics
+          committer_message: "build: update `${filename}`"
+
+          # Options
+          user: mah-shamim
+          template: classic
+          base: ""
+          config_display: large
+          config_timezone: Asia/Dhaka
+          config_output: svg
+          filename: metrics.plugin.starlists.languages.svg
+          repositories_batch: 0
+
+          # Star Lists plugin
+          plugin_starlists: yes
+          plugin_starlists_languages: yes
+          plugin_starlists_limit_languages: 8
+          plugin_starlists_limit_repositories: 0
+          plugin_starlists_only: Awesome, TC39 
+
+
+  skyline:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@master
+        with:
+          # You'll need to setup a personal token in your secrets.
+          token: ${{ secrets.METRICS_TOKEN }}
+          # GITHUB_TOKEN is a special auto-generated token used for commits
+          #committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}
+          committer_branch: github-metrics
+          committer_message: "build: update `${filename}`"
+
+          # Options
+          user: mah-shamim
+          template: classic, markdown
+          base: ""
+          config_display: large
+          config_timezone: Asia/Dhaka
+          config_output: svg
+          filename: metrics.plugin.skyline.city.svg
+          repositories_batch: 0
+
+          # Sky Line plugin
+          plugin_skyline: yes
+          plugin_skyline_year: 2020
+          plugin_skyline_frames: 6
+          plugin_skyline_quality: 1
+          plugin_skyline_settings: |
+            {
+              "url": "https://honzaap.github.io/GithubCity?name=${login}&year=${year}",
+              "ready": "[...document.querySelectorAll('.display-info span')].map(span => span.innerText).includes('${login}')",
+              "wait": 4,
+              "hide": ".github-corner, .footer-link, .buttons-options, .mobile-rotate, .display-info span:first-child"
+            } 
