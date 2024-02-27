@@ -24,7 +24,7 @@ jobs:
 
           # Options
           user: mah-shamim
-          template: classic, markdown
+          template: classic
           base: header, activity, community
           config_timezone: Asia/Dhaka
 
@@ -160,7 +160,7 @@ jobs:
 
           # Options
           user: mah-shamim
-          template: classic, markdown
+          template: classic
           base: ""
           config_display: large
           config_timezone: Asia/Dhaka
