@@ -70,8 +70,8 @@ Hi there, I'm **Md Ariful Haque**, **Software Engineer**, **Web Developer** and 
 <hr>
 
  <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=mah-shamim&show_icons=true&count_private=true" height=180 />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mah-shamim&layout=compact" height="180" alt="MD ARIFUL HAQUE Contributions" align="right" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mah-shamim&show_icons=true&count_private=true" height=160 />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mah-shamim&layout=compact" height="160" alt="MD ARIFUL HAQUE Contributions" align="right" />
 </p>
 
 <p align="left"> 
