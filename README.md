@@ -126,3 +126,5 @@ Hi there, I'm **Md Ariful Haque**, **Software Engineer**, **Web Developer** and 
 <p>
     <a href="https://www.linkedin.com/in/arifulhaque/" target="blank"><img align="left" alt="Md Ariful Haque's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 </p>
+
+![Alt](https://repobeats.axiom.co/api/embed/e8f480a7449fc13f91bbe120d0e45d7e7c945eee.svg "Repobeats analytics image")
