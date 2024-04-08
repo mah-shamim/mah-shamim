@@ -79,7 +79,9 @@ Hi there, I'm **Md Ariful Haque**, **Software Engineer**, **Web Developer** and 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mah-shamim&layout=compact" height=200 align="right" />
 </p>
 <hr>
+
 ![Alt](https://repobeats.axiom.co/api/embed/e8f480a7449fc13f91bbe120d0e45d7e7c945eee.svg "Repobeats analytics image")
+
 <hr>
 
 ### Professional Skills:
