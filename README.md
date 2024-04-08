@@ -78,7 +78,8 @@ Hi there, I'm **Md Ariful Haque**, **Software Engineer**, **Web Developer** and 
     <img src="https://github-profile-trophy.vercel.app/?username=mah-shamim&row=3&column=4" alt="MD ARIFUL HAQUE" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mah-shamim&layout=compact" height=200 align="right" />
 </p>
-
+<hr>
+![Alt](https://repobeats.axiom.co/api/embed/e8f480a7449fc13f91bbe120d0e45d7e7c945eee.svg "Repobeats analytics image")
 <hr>
 
 ### Professional Skills:
@@ -126,5 +127,4 @@ Hi there, I'm **Md Ariful Haque**, **Software Engineer**, **Web Developer** and 
 <p>
     <a href="https://www.linkedin.com/in/arifulhaque/" target="blank"><img align="left" alt="Md Ariful Haque's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 </p>
-<hr>
-![Alt](https://repobeats.axiom.co/api/embed/e8f480a7449fc13f91bbe120d0e45d7e7c945eee.svg "Repobeats analytics image")
+
