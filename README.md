@@ -16,6 +16,13 @@
     />
   </a>
 
+  <a rel="me" href="https://www.hackerrank.com/profile/mah_shamim" target="_blank">
+    <img
+      src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&domain=https%3A%2F%2Fwww.hackerrank.com&label=HackerRank&logo=HackerRank&logoColor=white&style=flat-square"
+      alt="HackerRank"
+    />
+  </a>
+
   <a rel="me" href="https://hub.docker.com/u/mahshamim" target="_blank">
     <img
       src="https://img.shields.io/docker/pulls/mahshamim/laraedit?logo=docker&style=flat-square&logoColor=white"
