@@ -83,7 +83,7 @@ Hi there, I'm **Md Ariful Haque**, **Software Engineer**, **Web Developer** and 
 
 <p align="left"> 
     <img src="https://github-profile-trophy.vercel.app/?username=mah-shamim&row=3&column=4" alt="MD ARIFUL HAQUE" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mah-shamim&layout=pie" height=300 align="right" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mah-shamim&layout=pie" height=325 align="right" />
 </p>
 <hr>
 
