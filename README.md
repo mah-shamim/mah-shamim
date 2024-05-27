@@ -58,15 +58,6 @@ Hi there, I'm **Md Ariful Haque**, **Software Engineer**, **Web Developer** and 
     />
   </a>
 
-  <a href="https://leetcode.com/u/mah-shamim/" target="_blank">
-    <img
-      width="256"
-      align="right"
-      alt="50 Days Badge 2024"
-      src="https://drive.google.com/file/d/1tQT8Z4wPWZ1QmjXRuERgjbTwCVXcUUH4/view?usp=sharing"
-    />
-  </a>
-
 
 </div>
 <hr>
@@ -83,7 +74,14 @@ Hi there, I'm **Md Ariful Haque**, **Software Engineer**, **Web Developer** and 
 ![Metrics](https://raw.githubusercontent.com/mah-shamim/mah-shamim/github-metrics/github-metrics.svg)
 ![Notable contributions](https://raw.githubusercontent.com/mah-shamim/mah-shamim/github-metrics/notable.svg)
 ![Achievements](https://raw.githubusercontent.com/mah-shamim/mah-shamim/github-metrics/achievements.svg)
-
+<a href="https://leetcode.com/u/mah-shamim/" target="_blank">
+    <img
+      width="256"
+      align="right"
+      alt="50 Days Badge 2024"
+      src="https://drive.google.com/file/d/1tQT8Z4wPWZ1QmjXRuERgjbTwCVXcUUH4/view?usp=sharing"
+    />
+  </a>
 <hr>
 
  <p align="left">
