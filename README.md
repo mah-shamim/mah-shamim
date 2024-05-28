@@ -1,4 +1,4 @@
-### Hi there 👋 , I'm MD ARIFUL HAQUE! ![image](https://img.shields.io/github/followers/mah-shamim?label=follow&style=social)
+### Hi there 👋 , I'm MD ARIFUL HAQUE! ![image](https://img.shields.io/github/followers/mah-shamim?label=follow&style=social) ![image](https://komarev.com/ghpvc/?username=mah-shamim&label=Profile%20views&color=0e75b6&style=flat)
 [![@mahshamim's Holopin board](https://holopin.io/api/user/board?user=mahshamim)](https://holopin.io/@mahshamim)
 <div align="left">
   
