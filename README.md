@@ -1,7 +1,7 @@
 ### Hi there 👋 , I'm MD ARIFUL HAQUE! ![image](https://img.shields.io/github/followers/mah-shamim?label=follow&style=social) ![image](https://komarev.com/ghpvc/?username=mah-shamim&label=Profile%20views&color=0e75b6&style=flat)
 [![@mahshamim's Holopin board](https://holopin.io/api/user/board?user=mahshamim)](https://holopin.io/@mahshamim)
 <div align="left">
-  
+
   <a href="https://www.linkedin.com/in/arifulhaque/" target="_blank">
     <img
       src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
@@ -49,18 +49,18 @@
 
 Hi there, I'm **Md Ariful Haque**, **Software Engineer**, **Web Developer** and a **Open-Source maintainer** 🚀 from Bangladesh 🇧🇩.
 
-<a href="https://leetcode.com/u/mah-shamim/" target="_blank">
+  <!--a href="https://leetcode.com/u/mah-shamim/" target="_blank">
     <img
       width="200"
       align="right"
       alt="50 Days Badge 2024"
       src="./leetcode-50-days-badge-2024(1) (1).svg"
     />
-  </a>
+  </a -->
 
   <a href="https://app.daily.dev/mdarifulhaque" target="_blank">
     <img
-      width="256"
+      width="200"
       align="right"
       alt="MD ARIFUL HAQUE's Dev Card"
       src="https://api.daily.dev/devcards/v2/n95861ZxF3UNxUETYTowt.png"
@@ -81,9 +81,12 @@ Hi there, I'm **Md Ariful Haque**, **Software Engineer**, **Web Developer** and 
 
 <hr>
 
-![Metrics](https://raw.githubusercontent.com/mah-shamim/mah-shamim/github-metrics/github-metrics.svg)
+<img src="https://raw.githubusercontent.com/mah-shamim/mah-shamim/github-metrics/github-metrics.svg" alt="Metrics" align="left"/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=mah-shamim&theme=github-dark" alt="LeetCode Badges" align="right"/>
+
 ![Notable contributions](https://raw.githubusercontent.com/mah-shamim/mah-shamim/github-metrics/notable.svg)
 ![Achievements](https://raw.githubusercontent.com/mah-shamim/mah-shamim/github-metrics/achievements.svg)
+
 
 <hr>
 
