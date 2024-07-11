@@ -23,6 +23,13 @@
     />
   </a>
 
+  <a rel="me" href="https://www.hackerrank.com/profile/mah_shamim" target="_blank">
+    <img
+      src="https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto&logoColor=fff&style=flat-square"
+      alt="DEV.TO"
+    />
+  </a>
+
   <a rel="me" href="https://hub.docker.com/u/mahshamim" target="_blank">
     <img
       src="https://img.shields.io/docker/pulls/mahshamim/laraedit?logo=docker&style=flat-square&logoColor=white"
