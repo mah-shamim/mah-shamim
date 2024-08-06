@@ -89,7 +89,7 @@ Hi there, I'm **Md Ariful Haque**, **Software Engineer**, **Web Developer** and 
 <hr>
 
 <img src="https://raw.githubusercontent.com/mah-shamim/mah-shamim/github-metrics/github-metrics.svg" alt="Metrics" align="left"/>
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=mah-shamim&theme=github-dark" alt="LeetCode Badges" align="right"/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=mah-shamim&theme=github-dark" width="300" alt="LeetCode Badges" align="right"/>
 
 ![Notable contributions](https://raw.githubusercontent.com/mah-shamim/mah-shamim/github-metrics/notable.svg)
 ![Achievements](https://raw.githubusercontent.com/mah-shamim/mah-shamim/github-metrics/achievements.svg)
