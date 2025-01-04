@@ -65,15 +65,7 @@ Hi there, I'm **Md Ariful Haque**, **Software Engineer**, **Web Developer** and 
     />
   </a -->
 
-  <a href="https://app.daily.dev/mdarifulhaque" target="_blank">
-    <img
-      width="200"
-      align="right"
-      alt="MD ARIFUL HAQUE's Dev Card"
-      src="https://api.daily.dev/devcards/v2/n95861ZxF3UNxUETYTowt.png"
-    />
-  </a>
-
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=mah-shamim&theme=github-dark" width="300" alt="LeetCode Badges" align="right"/>
 </div>
 <hr>
 
@@ -85,11 +77,23 @@ Hi there, I'm **Md Ariful Haque**, **Software Engineer**, **Web Developer** and 
   - 👀 I’m currently learning **Software Architecture** and **Software Service Oriented Design**
   - 💕 I'm currently maintain **[mah-shamim/city-bank-api](https://packagist.org/packages/mah-shamim/city-bank-api)** 
   - 📫 You can reach me at <a href="mailto:mah-shamim@gmail.com">mah-shamim@gmail.com</a>
+  -
+  -
+  -
+  -
+  -
 
 <hr>
 
 <img src="https://raw.githubusercontent.com/mah-shamim/mah-shamim/github-metrics/github-metrics.svg" alt="Metrics" align="left"/>
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=mah-shamim&theme=github-dark" width="300" alt="LeetCode Badges" align="right"/>
+<a href="https://app.daily.dev/mdarifulhaque" target="_blank">
+    <img
+      width="200"
+      align="right"
+      alt="MD ARIFUL HAQUE's Dev Card"
+      src="https://api.daily.dev/devcards/v2/n95861ZxF3UNxUETYTowt.png"
+    />
+  </a>
 
 ![Notable contributions](https://raw.githubusercontent.com/mah-shamim/mah-shamim/github-metrics/notable.svg)
 ![Achievements](https://raw.githubusercontent.com/mah-shamim/mah-shamim/github-metrics/achievements.svg)
