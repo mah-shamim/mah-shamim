@@ -39,7 +39,7 @@
 
   <a rel="me" href="https://hub.docker.com/u/mahshamim" target="_blank">
     <img
-      src="https://img.shields.io/docker/pulls/mahshamim/laraedit?logo=docker&style=flat-square&logoColor=white"
+      src="https://img.shields.io/docker/pulls/mahshamim/laraedit?logo=docker&style=flat-square&logoColor=white&label=docker"
       alt="Docker Hub"
     />
   </a>
