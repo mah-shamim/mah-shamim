@@ -44,12 +44,12 @@
     />
   </a>
 
-  <a rel="me" href="https://discord.gg/mWQ3s5Q8" target="_blank">
+  <!--a rel="me" href="https://discord.gg/mWQ3s5Q8" target="_blank">
     <img
       src="https://img.shields.io/discord/1188979385567551509?color=greenviolet&domain=https%3A%2F%2Fdiscord.com&label=Discord&logo=discord&logoColor=white&style=flat-square"
       alt="Cloud Native Mastodon"
     />
-  </a>
+  </a-->
 
   <a rel="me" href="https://packagist.org/packages/mah-shamim/city-bank-api" target="_blank">
     <img
