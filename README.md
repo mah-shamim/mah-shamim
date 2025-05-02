@@ -72,7 +72,7 @@ Hi there, I'm **Md Ariful Haque**, **Software Engineer**, **Web Developer** and 
     />
   </a -->
 <a href="https://leetcode-badge-showcase.vercel.app/api?username=mah-shamim&theme=dark&border=no-border&animated=true" target="_blank">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=mah-shamim&theme=dark&filter=annual&border=no-border&animated=true" width="300" alt="LeetCode Badges" align="right"/>
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=mah-shamim&theme=dark&filter=annual&border=no-border&animated=true&target=_blank" width="300" alt="LeetCode Badges" align="right" target="_blank"/>
 </a>
 </div>
 <hr>
