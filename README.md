@@ -25,7 +25,7 @@
 
   <a rel="me" href="https://leetcode.com/u/mah-shamim/" target="_blank">
     <img
-      src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor="
+      src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=&style=flat-square"
       alt="LeetCode"
     />
   </a>
