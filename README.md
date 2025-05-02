@@ -23,7 +23,14 @@
     />
   </a>
 
-  <a rel="me" href="https://www.hackerrank.com/profile/mah_shamim" target="_blank">
+  <a rel="me" href="https://leetcode.com/u/mah-shamim/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor="
+      alt="LeetCode"
+    />
+  </a>
+
+  <a rel="me" href="https://dev.to/mdarifulhaque" target="_blank">
     <img
       src="https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto&logoColor=fff&style=flat-square"
       alt="DEV.TO"
@@ -64,8 +71,9 @@ Hi there, I'm **Md Ariful Haque**, **Software Engineer**, **Web Developer** and 
       src="./leetcode-50-days-badge-2024(1) (1).svg"
     />
   </a -->
-
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=mah-shamim&theme=github-dark" width="300" alt="LeetCode Badges" align="right"/>
+<a href="https://leetcode-badge-showcase.vercel.app/api?username=mah-shamim&theme=dark&border=no-border&animated=true" target="_blank">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=mah-shamim&theme=dark&filter=annual&border=no-border&animated=true" width="300" alt="LeetCode Badges" align="right"/>
+</a>
 </div>
 <hr>
 
