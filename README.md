@@ -25,7 +25,7 @@
 
   <a rel="me" href="https://leetcode.com/u/mah-shamim/" target="_blank">
     <img
-      src="https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fmah-shamim&logo=leetcode&logoColor=yellow"
+      src="https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=LeetCode&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fmah-shamim&logo=leetcode&logoColor=yellow"
       alt="LeetCode"
     />
   </a>
@@ -72,7 +72,7 @@ Hi there, I'm **Md Ariful Haque**, **Software Engineer**, **Web Developer** and 
     />
   </a -->
 <a href="https://leetcode-badge-showcase.vercel.app/api?username=mah-shamim&theme=dark&border=no-border&animated=true" target="_blank">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=mah-shamim&theme=dark&filter=annual&border=no-border&animated=true&label=LeetCode" width="300" alt="LeetCode Badges" align="right"/>
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=mah-shamim&theme=dark&filter=annual&border=no-border&animated=true" width="300" alt="LeetCode Badges" align="right"/>
 </a>
 </div>
 <hr>
