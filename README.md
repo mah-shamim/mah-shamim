@@ -85,11 +85,6 @@ Hi there, I'm **Md Ariful Haque**, **Software Engineer**, **Web Developer** and 
   - 👀 I’m currently learning **Software Architecture** and **Software Service Oriented Design**
   - 💕 I'm currently maintain **[mah-shamim/city-bank-api](https://packagist.org/packages/mah-shamim/city-bank-api)** 
   - 📫 You can reach me at <a href="mailto:mah-shamim@gmail.com">mah-shamim@gmail.com</a>
-  -
-  -
-  -
-  -
-  -
 
 <hr>
 
