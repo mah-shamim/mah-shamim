@@ -165,3 +165,6 @@ Hi there, I'm **Md Ariful Haque**, **Software Engineer**, **Web Developer** and 
     <a href="https://www.linkedin.com/in/arifulhaque/" target="blank"><img align="left" alt="Md Ariful Haque's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 </p>
 
+
+
+<!-- Security scan triggered at 2025-09-09 05:43:33 -->
